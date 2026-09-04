@@ -21,53 +21,47 @@ I enjoy building practical web applications and continuously improving my progra
 
 ## 🛠️ Tech Stack
 
-### Programming & Web
+### 💻 Programming & Web
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
 
-### Tools & Deployment
+### 🎨 Frontend
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1F425F?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Responsive%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design">
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js">
+</p>
 
----
+### 🔧 Tools & Deployment
 
-## 📚 Technical Skills
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/PythonAnywhere-1F9FE0?style=for-the-badge&logo=python&logoColor=white" alt="PythonAnywhere">
+</p>
 
-**Backend**
-- Flask
-- RESTful Web Development
+### 🔐 Development
+
 - Authentication & Sessions
 - Role-Based Access Control
-
-**Database**
-- SQLite
-- SQL
-- CRUD
+- CRUD Operations
 - Data Management
-
-**Frontend**
-- Responsive Web Design
-- JavaScript
-- HTML5
-- CSS3
-- Chart.js
-
-**Other**
 - CSV Export
 - Application Deployment
-- Git & GitHub
 - Problem Solving
 
 ---
@@ -78,7 +72,7 @@ I enjoy building practical web applications and continuously improving my progra
 
 A full-stack web application for managing student records, users, and account settings.
 
-**Features:**
+### ✨ Features
 
 - 🔐 Secure authentication
 - 👥 Role-based authorization
@@ -92,9 +86,9 @@ A full-stack web application for managing student records, users, and account se
 - 📱 Responsive interface
 - 🌐 PythonAnywhere deployment
 
-**Built with:**
+### 🧰 Built With
 
-`Python` · `Flask` · `SQLite` · `JavaScript` · `HTML` · `CSS`
+`Python` · `Flask` · `SQLite` · `JavaScript` · `HTML5` · `CSS3` · `Chart.js`
 
 🔗 **[Live Demo](https://khattabma.pythonanywhere.com)**
 
@@ -104,9 +98,22 @@ A full-stack web application for managing student records, users, and account se
 
 ## 🌐 Personal Portfolio
 
-I built a personal portfolio website to showcase my skills, projects, education, and development journey.
+I built a personal portfolio website to showcase my skills, projects, education, and software development journey.
 
 🔗 **[Visit My Portfolio](https://khattabma.github.io)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khattabma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Khattab's GitHub Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khattabma&layout=compact&theme=tokyonight&hide_border=true" alt="Khattab's Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=khattabma&theme=tokyonight&hide_border=true" alt="Khattab's GitHub Streak">
+</p>
 
 ---
 
@@ -116,33 +123,16 @@ I built a personal portfolio website to showcase my skills, projects, education,
 - 🐍 Improving my Python and Flask skills
 - 🗄️ Strengthening my SQL and database knowledge
 - 🌐 Improving full-stack web development skills
-- 📚 Continuously learning software development best practices
+- 🧠 Continuously learning software development best practices
 - 💼 Preparing for Junior Software Developer opportunities
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khattabma&show_icons=true&hide_border=true&rank_icon=github" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khattabma&layout=compact&hide_border=true" height="165">
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khattabma&hide_border=true&area=true" width="100%">
-</p>
 
 ---
 
 ## 🎓 Education
 
-**University of the People**
+### University of the People
 
-Bachelor of Science in Computer Science
+**Bachelor of Science in Computer Science**
 
 Expected Graduation: **February 2027**
 
@@ -150,24 +140,17 @@ Expected Graduation: **February 2027**
 
 ## 📫 Connect With Me
 
-📧 **Email:**  
-[![Email](https://img.shields.io/badge/Email-khattabbusiness293%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:khattabbusiness293@gmail.com)
-
-💼 **LinkedIn:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khattab%20Shamsan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khattab-shamsan-748481419/)
-
-💻 **GitHub:**  
-[![GitHub](https://img.shields.io/badge/GitHub-khattabma-black?style=flat-square&logo=github&logoColor=white)](https://github.com/khattabma)
-
-🌐 **Portfolio:**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-khattabma.github.io-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://khattabma.github.io)
+- 📧 Email: **khattabbusiness293@gmail.com**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/khattab-shamsan-748481419/)**
+- 💻 **[GitHub](https://github.com/khattabma)**
+- 🌐 **[Portfolio](https://khattabma.github.io)**
 
 ---
 
 ## 🎯 Career Goal
 
-I'm looking for opportunities where I can contribute to real-world software projects, learn from experienced developers, and continue growing as a software engineer.
+I'm looking for opportunities where I can contribute to real-world software projects, learn from experienced developers, and continue growing as a software developer.
 
 ---
 
-> **Always learning, building, and improving. 🚀**
+> Always learning, building, and improving. 🚀
